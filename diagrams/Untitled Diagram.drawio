@@ -142,16 +142,16 @@
         <mxCell id="v2llBk8kRjkYERRfXgGO-50" value="ANAG_REMI_CONSUMER" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-52" value="getstoricolineemisure_view" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="v2llBk8kRjkYERRfXgGO-52" value="getstoricolineemisure_view" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-54" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="v2llBk8kRjkYERRfXgGO-54" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-56" value="strutture_misura" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="v2llBk8kRjkYERRfXgGO-56" value="strutture_misura" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="400" y="415" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-58" value="linee_misura" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="v2llBk8kRjkYERRfXgGO-58" value="linee_misura" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="400" y="435" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-60" value="dett_variazioni_strutt_misura" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
@@ -160,7 +160,7 @@
         <mxCell id="v2llBk8kRjkYERRfXgGO-62" value="anag_motivazione_intervento_consumer" style="text;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="400" y="475" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-64" value="eventi_impianto" style="text;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="v2llBk8kRjkYERRfXgGO-64" value="eventi_impianto" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="400" y="495" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v2llBk8kRjkYERRfXgGO-44">
@@ -184,7 +184,7 @@
         <mxCell id="v2llBk8kRjkYERRfXgGO-69" value="Restituisce i dati di dettaglio di una struttura" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="590" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-71" value="strutture_misura" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="v2llBk8kRjkYERRfXgGO-71" value="strutture_misura" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="610" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-72" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
