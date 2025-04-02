@@ -47,7 +47,7 @@
         <mxCell id="v2llBk8kRjkYERRfXgGO-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="405" y="30" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-20" value="CENS_PRIMO_ACCESSO" style="text;whiteSpace=wrap;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="v2llBk8kRjkYERRfXgGO-20" value="CENS_PRIMO_ACCESSO" style="text;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="445" y="40" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=-0.042;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="v2llBk8kRjkYERRfXgGO-22">
@@ -62,7 +62,7 @@
         <mxCell id="v2llBk8kRjkYERRfXgGO-22" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="405" y="80" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-23" value="censimento_moduli_accreditamento" style="text;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="v2llBk8kRjkYERRfXgGO-23" value="censimento_moduli_accreditamento" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="445" y="90" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-24" value="Restituisce i valori del profilo titolare" style="text;whiteSpace=wrap;fontSize=7;" vertex="1" parent="1">
@@ -157,7 +157,7 @@
         <mxCell id="v2llBk8kRjkYERRfXgGO-60" value="dett_variazioni_strutt_misura" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="400" y="455" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-62" value="anag_motivazione_intervento_consumer" style="text;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="v2llBk8kRjkYERRfXgGO-62" value="anag_motivazione_intervento_consumer" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="400" y="475" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-64" value="eventi_impianto" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
@@ -302,10 +302,7 @@
           <mxGeometry x="380" y="1200" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-106" value="anag_unita_misura" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="381.56" y="1220" width="95" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.628;entryY=1.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v2llBk8kRjkYERRfXgGO-105" target="v2llBk8kRjkYERRfXgGO-105">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="382.82" y="1220" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v2llBk8kRjkYERRfXgGO-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
