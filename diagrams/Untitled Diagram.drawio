@@ -169,6 +169,90 @@
             <mxPoint x="270" y="446" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-66" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/linee-misura/dati-generali&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry y="550" width="490" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-67" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="v2llBk8kRjkYERRfXgGO-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="37.5" y="650" as="sourcePoint" />
+            <mxPoint x="287.5" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-69" value="Restituisce i dati di dettaglio di una struttura" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="590" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-71" value="strutture_misura" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="610" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-72" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="610" width="77.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-73" value="eventi_impianto" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="630" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-74" value="pressioni_portate_eventi" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="650" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-75" value="linee_impianto" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="670" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v2llBk8kRjkYERRfXgGO-67" target="v2llBk8kRjkYERRfXgGO-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="620" as="sourcePoint" />
+            <mxPoint x="440" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-77" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/contatore/getDatiContatore/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry y="720" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-78" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-79" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="v2llBk8kRjkYERRfXgGO-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="850" as="sourcePoint" />
+            <mxPoint x="285" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-80" value="Restituisce i dati Contatore di un impianto" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="790" width="197.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-81" value="strutture_misura" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="385.94" y="770" width="72.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-82" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="294.07" y="790" width="88.75" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-83" value="costanti_calcolo" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="385.94" y="790" width="72.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-84" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="385.94" y="810" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-85" value="componenti_tratto" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="388.44" y="830" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-86" value="MarcaModelloDesc_View" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="388.44" y="850" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-87" value="asso_caratteristiche_sottotipo_consumer" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="388.44" y="870" width="172.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-88" value="caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="388.44" y="890" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-89" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="388.44" y="910" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v2llBk8kRjkYERRfXgGO-78" target="v2llBk8kRjkYERRfXgGO-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="870" as="sourcePoint" />
+            <mxPoint x="340" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
