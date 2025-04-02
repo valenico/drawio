@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.3">
   <diagram name="Page-1" id="8jOllRlOWKZDxfG04baL">
-    <mxGraphModel dx="885" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,6 +251,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="870" as="sourcePoint" />
             <mxPoint x="340" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-91" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/dati-elaboratore/getDatiElaboratore/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry y="960" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-92" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="v2llBk8kRjkYERRfXgGO-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="1080" as="sourcePoint" />
+            <mxPoint x="285" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
