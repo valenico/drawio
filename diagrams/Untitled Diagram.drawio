@@ -346,6 +346,111 @@
             <mxPoint x="250.00447999999997" y="1439.5799999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-120" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/dati-modem/getDatiModemSingolo/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="0.9399999999999977" y="1480" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-125" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-126" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="v2llBk8kRjkYERRfXgGO-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="1600" as="sourcePoint" />
+            <mxPoint x="255" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-127" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="333.21" y="1550" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-128" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="258.45" y="1560" width="66.88" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-132" value="componenti_tratto" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="333.53" y="1570" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-133" value="anag_dominio_caratteristica_sottotipo_consumer" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="333.21" y="1590" width="204.06" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-135" value="caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="332.73999999999995" y="1610" width="154.06" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-136" value="configurazione_apparati_telelettura" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="333.53" y="1630" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-137" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v2llBk8kRjkYERRfXgGO-125" target="v2llBk8kRjkYERRfXgGO-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1530" as="sourcePoint" />
+            <mxPoint x="370" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-138" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/analizzatore-gascromatografo/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="0.9399999999999977" y="1700" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-139" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-140" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="v2llBk8kRjkYERRfXgGO-139">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="1810" as="sourcePoint" />
+            <mxPoint x="255" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-141" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="328.53" y="1780" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-142" value="anag_ditta_costruttrice_consumer" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="328.53" y="1800" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-143" value="anag_catalogo_modelli_consumer" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="328.53" y="1820" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-144" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="258.45" y="1770" width="66.88" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-145" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v2llBk8kRjkYERRfXgGO-139" target="v2llBk8kRjkYERRfXgGO-144">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1740" as="sourcePoint" />
+            <mxPoint x="370" y="1690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-146" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/datalogger/getDatiDataLogger/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);labelBorderColor=none;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry y="1900" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-147" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-148" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="v2llBk8kRjkYERRfXgGO-147">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="2020" as="sourcePoint" />
+            <mxPoint x="255" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-151" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="261.65" y="1980" width="66.88" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-152" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="338.99" y="1970" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-153" value="configurazione_apparato" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="341.18" y="1990" width="107.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-154" value="componenti_tratto" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="341.49" y="2010" width="87.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-155" value="caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="341.9599999999999" y="2030" width="154.06" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-156" value="MarcaModelloDesc_View" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="341.18" y="2050" width="107.81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-157" value="riepilogo_telelettura" style="text;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="341.18" y="2070" width="87.81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v2llBk8kRjkYERRfXgGO-158" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v2llBk8kRjkYERRfXgGO-147" target="v2llBk8kRjkYERRfXgGO-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1980" as="sourcePoint" />
+            <mxPoint x="370" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
