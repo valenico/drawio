@@ -48,7 +48,7 @@
           <mxGeometry x="435" y="-990" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-20" value="summer_consistenze_imp.CENS_PRIMO_ACCESSO" style="text;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="445" y="40" width="275" height="20" as="geometry" />
+          <mxGeometry x="483.2099999999999" y="-980" width="275" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=-0.042;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="v2llBk8kRjkYERRfXgGO-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -63,7 +63,7 @@
           <mxGeometry x="435" y="-940" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-23" value="summer_consistenze_imp.censimento_moduli_accreditamento" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="445" y="90" width="255" height="20" as="geometry" />
+          <mxGeometry x="485.94" y="-930" width="255" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-24" value="Restituisce i valori del profilo titolare" style="text;whiteSpace=wrap;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="300" y="-1000" width="80" height="40" as="geometry" />
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-35" value="&lt;span style=&quot;&quot; data-teams=&quot;true&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;/pdme-consistenza-service/pdme-consistenza-service/dati-progetto?codiceRemi=34401601&amp;amp;codiceCliente=0020000016&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
-          <mxGeometry x="30" y="-1070" width="670" height="50" as="geometry" />
+          <mxGeometry x="23.75" y="-1070" width="670" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-36" value="&lt;span style=&quot;&quot; data-teams=&quot;true&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/stor-linee-misura/getStorico/34203004&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
           <mxGeometry x="30" y="-836" width="560" height="50" as="geometry" />
@@ -450,6 +450,39 @@
             <mxPoint x="350" y="960" as="sourcePoint" />
             <mxPoint x="400" y="910" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qOZoktG5r5qXQmOM98Yj-3" value="DATABASE=summer_consistenze_imp" style="text;whiteSpace=wrap;fontSize=10;labelBackgroundColor=light-dark(#FFFFFF,#FFFF33);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="443.53" y="-1020" width="176.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qOZoktG5r5qXQmOM98Yj-4" value="DATABASE=summer_consistenze_imp" style="text;whiteSpace=wrap;fontSize=10;labelBackgroundColor=light-dark(#FFFFFF,#FFFF33);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="110" y="-890" width="176.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qOZoktG5r5qXQmOM98Yj-5" value="DATABASE=summer_consistenze_imp" style="text;whiteSpace=wrap;fontSize=10;labelBackgroundColor=light-dark(#FFFFFF,#FFFF33);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="270.51" y="-806" width="176.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qOZoktG5r5qXQmOM98Yj-6" value="DATABASE=summer_consistenze_imp" style="text;whiteSpace=wrap;fontSize=10;labelBackgroundColor=light-dark(#FFFFFF,#FFFF33);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="293.12" y="-680" width="176.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qOZoktG5r5qXQmOM98Yj-7" value="DATABASE=summer_consistenze_imp" style="text;whiteSpace=wrap;fontSize=10;labelBackgroundColor=light-dark(#FFFFFF,#FFFF33);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="301.03000000000003" y="-270" width="176.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qOZoktG5r5qXQmOM98Yj-8" value="DATABASE=summer_consistenze_imp" style="text;whiteSpace=wrap;fontSize=10;labelBackgroundColor=light-dark(#FFFFFF,#FFFF33);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="316.74" y="-430" width="176.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qOZoktG5r5qXQmOM98Yj-9" value="DATABASE=summer_consistenze_imp" style="text;whiteSpace=wrap;fontSize=10;labelBackgroundColor=light-dark(#FFFFFF,#FFFF33);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="230" y="-10" width="176.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qOZoktG5r5qXQmOM98Yj-10" value="DATABASE=summer_consistenze_imp" style="text;whiteSpace=wrap;fontSize=10;labelBackgroundColor=light-dark(#FFFFFF,#FFFF33);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="244.27" y="300" width="176.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qOZoktG5r5qXQmOM98Yj-11" value="DATABASE=summer_consistenze_imp" style="text;whiteSpace=wrap;fontSize=10;labelBackgroundColor=light-dark(#FFFFFF,#FFFF33);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="244.27" y="510" width="176.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qOZoktG5r5qXQmOM98Yj-12" value="DATABASE=summer_consistenze_imp" style="text;whiteSpace=wrap;fontSize=10;labelBackgroundColor=light-dark(#FFFFFF,#FFFF33);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="251.77" y="720" width="176.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qOZoktG5r5qXQmOM98Yj-13" value="DATABASE=summer_consistenze_imp" style="text;whiteSpace=wrap;fontSize=10;labelBackgroundColor=light-dark(#FFFFFF,#FFFF33);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="260" y="930" width="176.47" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
