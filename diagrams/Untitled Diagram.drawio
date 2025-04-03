@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.4">
   <diagram name="Page-1" id="8jOllRlOWKZDxfG04baL">
-    <mxGraphModel dx="678" dy="1510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1068" dy="1668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v2llBk8kRjkYERRfXgGO-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" target="v2llBk8kRjkYERRfXgGO-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="75" as="sourcePoint" />
-            <mxPoint x="50" y="70" as="targetPoint" />
+            <mxPoint x="50" y="-945" as="sourcePoint" />
+            <mxPoint x="80" y="-950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-5" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;/dati-progetto&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;fontColor=light-dark(#000000,#000000);labelBorderColor=none;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" parent="v2llBk8kRjkYERRfXgGO-4" vertex="1" connectable="0">
@@ -16,12 +16,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-8" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 6px; line-height: 80%;&quot;&gt;Verifica se l&#39;utente chiamante ha accesso ai&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px; line-height: 80%;&quot;&gt;dati specificati tramite i codici REMI e codici CLIENTE forniti.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px; line-height: 80%;&quot;&gt;Se l&#39;utente è interno, non è necessario effettuare&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px; line-height: 80%;&quot;&gt;il controllo sul cono dati dell&#39;utente.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px; line-height: 80%;&quot;&gt;Se l&#39;utente è esterno, viene controllata l&#39;accessibilità&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px; line-height: 80%;&quot;&gt;dei codici specificati rispetto al suo cono dati.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="60" y="-26.25" width="130" height="66.25" as="geometry" />
+          <mxGeometry x="90" y="-1046.25" width="130" height="66.25" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.006;exitY=0.317;exitDx=0;exitDy=0;entryX=-0.029;entryY=0.114;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-14" target="v2llBk8kRjkYERRfXgGO-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="70" as="sourcePoint" />
-            <mxPoint x="360" y="70" as="targetPoint" />
+            <mxPoint x="210" y="-950" as="sourcePoint" />
+            <mxPoint x="390" y="-950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-12" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;/auth/v2/owner-profile&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v2llBk8kRjkYERRfXgGO-9" vertex="1" connectable="0">
@@ -30,60 +30,60 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;censimento-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="260" y="53.75" width="85" height="56.25" as="geometry" />
+          <mxGeometry x="290" y="-966.25" width="85" height="56.25" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-14" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;pdme-consistenza-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="50" width="100" height="50" as="geometry" />
+          <mxGeometry x="100" y="-970" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="80" as="sourcePoint" />
-            <mxPoint x="410" y="50.00000000000023" as="targetPoint" />
+            <mxPoint x="380" y="-940" as="sourcePoint" />
+            <mxPoint x="440" y="-969.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="50" />
+              <mxPoint x="410" y="-970" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="405" y="30" width="40" height="40" as="geometry" />
+          <mxGeometry x="435" y="-990" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-20" value="CENS_PRIMO_ACCESSO" style="text;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="445" y="40" width="90" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-20" value="summer_consistenze_imp.CENS_PRIMO_ACCESSO" style="text;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="445" y="40" width="275" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=-0.042;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="v2llBk8kRjkYERRfXgGO-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="345" y="80" as="sourcePoint" />
-            <mxPoint x="407.6" y="49.799999999999955" as="targetPoint" />
+            <mxPoint x="375" y="-940" as="sourcePoint" />
+            <mxPoint x="437.6" y="-970.2" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="70" />
+              <mxPoint x="410" y="-950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-22" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="405" y="80" width="40" height="40" as="geometry" />
+          <mxGeometry x="435" y="-940" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-23" value="censimento_moduli_accreditamento" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="445" y="90" width="230" height="40" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-23" value="summer_consistenze_imp.censimento_moduli_accreditamento" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="445" y="90" width="255" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-24" value="Restituisce i valori del profilo titolare" style="text;whiteSpace=wrap;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="270" y="20" width="80" height="40" as="geometry" />
+          <mxGeometry x="300" y="-1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-30" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="126.25" y="120" width="50" height="40" as="geometry" />
+          <mxGeometry x="156.25" y="-900" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-31" value="anag_remi_consumer" style="text;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="120" y="160" width="80" height="30" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-31" value="summer_consistenze_imp.anag_remi_consumer" style="text;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="150" y="-860" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-14" target="v2llBk8kRjkYERRfXgGO-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="150" as="sourcePoint" />
-            <mxPoint x="320" y="100" as="targetPoint" />
+            <mxPoint x="300" y="-870" as="sourcePoint" />
+            <mxPoint x="350" y="-920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-14" target="v2llBk8kRjkYERRfXgGO-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="150" as="sourcePoint" />
-            <mxPoint x="340" y="100" as="targetPoint" />
+            <mxPoint x="320" y="-870" as="sourcePoint" />
+            <mxPoint x="370" y="-920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-34" value="/progettisti/retrive-designers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;" parent="v2llBk8kRjkYERRfXgGO-33" vertex="1" connectable="0">
@@ -92,363 +92,363 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-35" value="&lt;span style=&quot;&quot; data-teams=&quot;true&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;/pdme-consistenza-service/pdme-consistenza-service/dati-progetto?codiceRemi=34401601&amp;amp;codiceCliente=0020000016&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
-          <mxGeometry y="-50" width="670" height="50" as="geometry" />
+          <mxGeometry x="30" y="-1070" width="670" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-36" value="&lt;span style=&quot;&quot; data-teams=&quot;true&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/stor-linee-misura/getStorico/34203004&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
-          <mxGeometry y="184" width="560" height="50" as="geometry" />
+          <mxGeometry x="30" y="-836" width="560" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-37" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="65" y="234" width="120" height="60" as="geometry" />
+          <mxGeometry x="95" y="-786" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="v2llBk8kRjkYERRfXgGO-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="264" as="sourcePoint" />
-            <mxPoint x="270" y="164" as="targetPoint" />
+            <mxPoint x="50" y="-756" as="sourcePoint" />
+            <mxPoint x="300" y="-856" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-39" value="Retrieve Storico Dettaglio Linee Misura by remi" style="text;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="40" y="214" width="190" height="30" as="geometry" />
+          <mxGeometry x="70" y="-806" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-40" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="245" y="239" width="70" height="50" as="geometry" />
+          <mxGeometry x="275" y="-781" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-41" value="strutture_misura" style="text;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="315" y="254" width="65" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-41" value="summer_consistenze_imp.strutture_misura" style="text;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="352.27" y="-766" width="175" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-37" target="v2llBk8kRjkYERRfXgGO-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="244" as="sourcePoint" />
-            <mxPoint x="310" y="194" as="targetPoint" />
+            <mxPoint x="290" y="-776" as="sourcePoint" />
+            <mxPoint x="340" y="-826" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-43" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/stor-linee-misura/getStoricoDettaglio/34203004/1/9&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
-          <mxGeometry y="310" width="680" height="30" as="geometry" />
+          <mxGeometry x="30" y="-710" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-44" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="415" width="120" height="60" as="geometry" />
+          <mxGeometry x="115" y="-605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="v2llBk8kRjkYERRfXgGO-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="445" as="sourcePoint" />
-            <mxPoint x="290" y="345" as="targetPoint" />
+            <mxPoint x="70" y="-575" as="sourcePoint" />
+            <mxPoint x="320" y="-675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-46" value="Recupero i dati di storico delle linee misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="60" y="385" width="200" height="20" as="geometry" />
+          <mxGeometry x="90" y="-635" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-49" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="270" y="377.5" width="120" height="115" as="geometry" />
+          <mxGeometry x="300" y="-642.5" width="120" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-50" value="ANAG_REMI_CONSUMER" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="400" y="360" width="125" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-50" value="summer_consistenze_imp.ANAG_REMI_CONSUMER" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-660" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-52" value="getstoricolineemisure_view" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="400" y="380" width="125" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-52" value="summer_consistenze_imp.getstoricolineemisure_view" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-640" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-54" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="400" y="400" width="180" height="40" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-54" value="summer_consistenze_imp.caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-620" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-56" value="strutture_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="400" y="415" width="120" height="40" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-56" value="summer_consistenze_imp.strutture_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-605" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-58" value="linee_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="400" y="435" width="100" height="40" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-58" value="summer_consistenze_imp.linee_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-585" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-60" value="dett_variazioni_strutt_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="400" y="455" width="190" height="40" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-60" value="summer_consistenze_imp.dett_variazioni_strutt_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-565" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-62" value="anag_motivazione_intervento_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="400" y="475" width="250" height="40" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-62" value="summer_consistenze_imp.anag_motivazione_intervento_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-545" width="270" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-64" value="eventi_impianto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="400" y="495" width="120" height="40" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-64" value="summer_consistenze_imp.eventi_impianto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-525" width="170" height="25" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="550" as="sourcePoint" />
-            <mxPoint x="270" y="446" as="targetPoint" />
+            <mxPoint x="390" y="-470" as="sourcePoint" />
+            <mxPoint x="300" y="-574" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-66" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/linee-misura/dati-generali&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
-          <mxGeometry y="550" width="490" height="20" as="geometry" />
+          <mxGeometry x="30" y="-470" width="490" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-67" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="82.5" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="112.5" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="v2llBk8kRjkYERRfXgGO-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="37.5" y="650" as="sourcePoint" />
-            <mxPoint x="287.5" y="550" as="targetPoint" />
+            <mxPoint x="67.5" y="-370" as="sourcePoint" />
+            <mxPoint x="317.5" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-69" value="Restituisce i dati di dettaglio di una struttura" style="text;whiteSpace=wrap;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="52.5" y="590" width="200" height="30" as="geometry" />
+          <mxGeometry x="82.5" y="-430" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-71" value="strutture_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="377.5" y="610" width="80" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-71" value="summer_consistenze_imp.strutture_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="407.5" y="-410" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-72" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="290" y="610" width="77.5" height="80" as="geometry" />
+          <mxGeometry x="320" y="-410" width="77.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-73" value="eventi_impianto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="377.5" y="630" width="90" height="30" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-73" value="summer_consistenze_imp.eventi_impianto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="407.5" y="-390" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-74" value="pressioni_portate_eventi" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="377.5" y="650" width="100" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-74" value="summer_consistenze_imp.pressioni_portate_eventi" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="407.5" y="-370" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-75" value="linee_impianto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="377.5" y="670" width="60" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-75" value="summer_consistenze_imp.linee_impianto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="407.5" y="-350" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-67" target="v2llBk8kRjkYERRfXgGO-72" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="620" as="sourcePoint" />
-            <mxPoint x="440" y="570" as="targetPoint" />
+            <mxPoint x="420" y="-400" as="sourcePoint" />
+            <mxPoint x="470" y="-450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-77" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/contatore/getDatiContatore/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
-          <mxGeometry y="720" width="500" height="30" as="geometry" />
+          <mxGeometry x="30" y="-300" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-78" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-79" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="v2llBk8kRjkYERRfXgGO-78" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="850" as="sourcePoint" />
-            <mxPoint x="285" y="750" as="targetPoint" />
+            <mxPoint x="70" y="-170" as="sourcePoint" />
+            <mxPoint x="315" y="-270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-80" value="Restituisce i dati Contatore di un impianto" style="text;whiteSpace=wrap;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="52.5" y="790" width="197.5" height="20" as="geometry" />
+          <mxGeometry x="82.5" y="-230" width="197.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-81" value="strutture_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="385.94" y="770" width="72.5" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-81" value="summer_consistenze_imp.strutture_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="415.94" y="-250" width="72.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-82" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="294.07" y="790" width="88.75" height="120" as="geometry" />
+          <mxGeometry x="324.07" y="-230" width="88.75" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-83" value="costanti_calcolo" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="385.94" y="790" width="72.5" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-83" value="summer_consistenze_imp.costanti_calcolo" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="415.94" y="-230" width="72.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-84" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="385.94" y="810" width="120" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-84" value="summer_consistenze_imp.caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="415.94" y="-210" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-85" value="componenti_tratto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="388.44" y="830" width="85" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-85" value="summer_consistenze_imp.componenti_tratto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="418.44" y="-190" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-86" value="MarcaModelloDesc_View" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="388.44" y="850" width="110" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-86" value="summer_consistenze_imp.MarcaModelloDesc_View" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="418.44" y="-170" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-87" value="asso_caratteristiche_sottotipo_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="388.44" y="870" width="172.5" height="30" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-87" value="summer_consistenze_imp.asso_caratteristiche_sottotipo_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="418.44" y="-150" width="172.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-88" value="caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="388.44" y="890" width="150" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-88" value="summer_consistenze_imp.caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="418.44" y="-130" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-89" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="388.44" y="910" width="120" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-89" value="summer_consistenze_imp.caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="418.44" y="-110" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-78" target="v2llBk8kRjkYERRfXgGO-82" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="870" as="sourcePoint" />
-            <mxPoint x="340" y="820" as="targetPoint" />
+            <mxPoint x="320" y="-150" as="sourcePoint" />
+            <mxPoint x="370" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-91" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/dati-elaboratore/getDatiElaboratore/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
-          <mxGeometry y="960" width="560" height="40" as="geometry" />
+          <mxGeometry x="30" y="-60" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-92" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="v2llBk8kRjkYERRfXgGO-92" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="1110" as="sourcePoint" />
-            <mxPoint x="265" y="1010" as="targetPoint" />
+            <mxPoint x="50" y="90" as="sourcePoint" />
+            <mxPoint x="295" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-94" value="configurazione_apparato" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="377.49999999999994" y="1000" width="101.56" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-94" value="summer_consistenze_imp.configurazione_apparato" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="407.49999999999994" y="-20" width="101.56" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-95" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="263.12" y="1040" width="104.38" height="140" as="geometry" />
+          <mxGeometry x="293.12" y="20" width="104.38" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-96" value="dettaglio_componenti_guasti" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1020" width="120" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-96" value="summer_consistenze_imp.dettaglio_componenti_guasti" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="410" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-97" value="strutture_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1040" width="80" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-97" value="summer_consistenze_imp.strutture_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="410" y="20" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-98" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1060" width="120" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-98" value="summer_consistenze_imp.caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="410" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-99" value="componenti_tratto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1080" width="80" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-99" value="summer_consistenze_imp.componenti_tratto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="410" y="60" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-100" value="MarcaModelloDesc_View" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1100" width="110" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-100" value="summer_consistenze_imp.MarcaModelloDesc_View" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="410" y="80" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-101" value="asso_caratteristiche_sottotipo_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1120" width="170" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-101" value="summer_consistenze_imp.asso_caratteristiche_sottotipo_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="410" y="100" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-102" value="dett_variazioni_strutt_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="377.5" y="1140" width="130" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-102" value="summer_consistenze_imp.dett_variazioni_strutt_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="407.5" y="120" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-103" value="eventi_impianto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="377.5" y="1160" width="70" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-103" value="summer_consistenze_imp.eventi_impianto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="407.5" y="140" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-104" value="letture_elaboratore" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1180" width="90" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-104" value="summer_consistenze_imp.letture_elaboratore" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="410" y="160" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-105" value="getstoricolineemisure_view" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1200" width="110" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-105" value="summer_consistenze_imp.getstoricolineemisure_view" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="410" y="180" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-106" value="anag_unita_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1220" width="95" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-106" value="summer_consistenze_imp.anag_unita_misura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="410" y="200" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-92" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="1150" as="sourcePoint" />
-            <mxPoint x="260" y="1110" as="targetPoint" />
+            <mxPoint x="380" y="130" as="sourcePoint" />
+            <mxPoint x="290" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-109" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/dati-catena/getDatiCatena/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
-          <mxGeometry y="1280" width="500" height="40" as="geometry" />
+          <mxGeometry x="30" y="260" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-110" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-111" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="v2llBk8kRjkYERRfXgGO-110" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="1390" as="sourcePoint" />
-            <mxPoint x="255" y="1290" as="targetPoint" />
+            <mxPoint x="40" y="370" as="sourcePoint" />
+            <mxPoint x="285" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-112" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="335.94" y="1350" width="120" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-112" value="summer_consistenze_imp.caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="365.94" y="330" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-114" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="258.45" y="1350" width="66.88" height="80" as="geometry" />
+          <mxGeometry x="288.45" y="330" width="66.88" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-115" value="caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="335.94" y="1370" width="154.06" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-115" value="summer_consistenze_imp.caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="365.94" y="350" width="154.06" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-116" value="caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1240" width="154.06" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-116" value="summer_consistenze_imp.caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="410" y="220" width="154.06" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-117" value="anag_ditta_costruttrice_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="335.94" y="1390" width="140" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-117" value="summer_consistenze_imp.anag_ditta_costruttrice_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="365.94" y="370" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-118" value="anag_catalogo_modelli_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="336.26" y="1410" width="140" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-118" value="summer_consistenze_imp.anag_catalogo_modelli_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="366.26" y="390" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-119" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-110" target="v2llBk8kRjkYERRfXgGO-114" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="161.35000000000005" y="1429.9999999999995" as="sourcePoint" />
-            <mxPoint x="250.00447999999997" y="1439.5799999999995" as="targetPoint" />
+            <mxPoint x="191.35000000000005" y="409.99999999999955" as="sourcePoint" />
+            <mxPoint x="280.00447999999994" y="419.5799999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-120" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/dati-modem/getDatiModemSingolo/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
-          <mxGeometry x="0.9399999999999977" y="1480" width="560" height="40" as="geometry" />
+          <mxGeometry x="30.939999999999998" y="460" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-125" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1570" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-126" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="v2llBk8kRjkYERRfXgGO-125" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="1600" as="sourcePoint" />
-            <mxPoint x="255" y="1500" as="targetPoint" />
+            <mxPoint x="40" y="580" as="sourcePoint" />
+            <mxPoint x="285" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-127" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="333.21" y="1550" width="120" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-127" value="summer_consistenze_imp.caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="363.21" y="530" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-128" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="258.45" y="1560" width="66.88" height="80" as="geometry" />
+          <mxGeometry x="288.45" y="540" width="66.88" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-132" value="componenti_tratto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="333.53" y="1570" width="80" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-132" value="summer_consistenze_imp.componenti_tratto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="363.53" y="550" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-133" value="anag_dominio_caratteristica_sottotipo_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="333.21" y="1590" width="204.06" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-133" value="summer_consistenze_imp.anag_dominio_caratteristica_sottotipo_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="363.21" y="570" width="204.06" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-135" value="caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="332.73999999999995" y="1610" width="154.06" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-135" value="summer_consistenze_imp.caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="362.73999999999995" y="590" width="154.06" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-136" value="configurazione_apparati_telelettura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="333.53" y="1630" width="150" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-136" value="summer_consistenze_imp.configurazione_apparati_telelettura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="363.53" y="610" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-137" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-125" target="v2llBk8kRjkYERRfXgGO-128" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="1530" as="sourcePoint" />
-            <mxPoint x="370" y="1480" as="targetPoint" />
+            <mxPoint x="350" y="510" as="sourcePoint" />
+            <mxPoint x="400" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-138" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/analizzatore-gascromatografo/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
-          <mxGeometry x="0.9399999999999977" y="1700" width="520" height="40" as="geometry" />
+          <mxGeometry x="30.939999999999998" y="680" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-139" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-140" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="v2llBk8kRjkYERRfXgGO-139" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="1810" as="sourcePoint" />
-            <mxPoint x="255" y="1710" as="targetPoint" />
+            <mxPoint x="40" y="790" as="sourcePoint" />
+            <mxPoint x="285" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-141" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="328.53" y="1780" width="120" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-141" value="summer_consistenze_imp.caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="358.53" y="760" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-142" value="anag_ditta_costruttrice_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="328.53" y="1800" width="150" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-142" value="summer_consistenze_imp.anag_ditta_costruttrice_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="358.53" y="780" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-143" value="anag_catalogo_modelli_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="328.53" y="1820" width="160" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-143" value="summer_consistenze_imp.anag_catalogo_modelli_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="358.53" y="800" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-144" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="258.45" y="1770" width="66.88" height="80" as="geometry" />
+          <mxGeometry x="288.45" y="750" width="66.88" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-145" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-139" target="v2llBk8kRjkYERRfXgGO-144" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="1740" as="sourcePoint" />
-            <mxPoint x="370" y="1690" as="targetPoint" />
+            <mxPoint x="350" y="720" as="sourcePoint" />
+            <mxPoint x="400" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-146" value="&lt;span data-teams=&quot;true&quot;&gt;/consistenza-impianto-service/consistenza-impianto-service/datalogger/getDatiDataLogger/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);labelBorderColor=none;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
-          <mxGeometry y="1900" width="520" height="40" as="geometry" />
+          <mxGeometry x="30" y="880" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-147" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;consistenza-impianto-service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1990" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-148" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="v2llBk8kRjkYERRfXgGO-147" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="2020" as="sourcePoint" />
-            <mxPoint x="255" y="1920" as="targetPoint" />
+            <mxPoint x="40" y="1000" as="sourcePoint" />
+            <mxPoint x="285" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-151" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="261.65" y="1980" width="66.88" height="80" as="geometry" />
+          <mxGeometry x="291.65" y="960" width="66.88" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-152" value="caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="338.99" y="1970" width="120" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-152" value="summer_consistenze_imp.caratteristiche_dimensionali" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="368.99" y="950" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-153" value="configurazione_apparato" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="341.18" y="1990" width="107.5" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-153" value="summer_consistenze_imp.configurazione_apparato" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="371.18" y="970" width="107.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-154" value="componenti_tratto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="341.49" y="2010" width="87.5" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-154" value="summer_consistenze_imp.componenti_tratto" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="371.49" y="990" width="87.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-155" value="caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="341.9599999999999" y="2030" width="154.06" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-155" value="summer_consistenze_imp.caratteristiche_costruttive_consumer" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="371.9599999999999" y="1010" width="154.06" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-156" value="MarcaModelloDesc_View" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="341.18" y="2050" width="107.81" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-156" value="summer_consistenze_imp.MarcaModelloDesc_View" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="371.18" y="1030" width="107.81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2llBk8kRjkYERRfXgGO-157" value="riepilogo_telelettura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="341.18" y="2070" width="87.81" height="20" as="geometry" />
+        <mxCell id="v2llBk8kRjkYERRfXgGO-157" value="summer_consistenze_imp.riepilogo_telelettura" style="text;whiteSpace=wrap;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="371.18" y="1050" width="87.81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v2llBk8kRjkYERRfXgGO-158" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v2llBk8kRjkYERRfXgGO-147" target="v2llBk8kRjkYERRfXgGO-151" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="1980" as="sourcePoint" />
-            <mxPoint x="370" y="1930" as="targetPoint" />
+            <mxPoint x="350" y="960" as="sourcePoint" />
+            <mxPoint x="400" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
